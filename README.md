@@ -1,0 +1,1 @@
+On the attached image of Google homepage I'm practicing of finding as many bugs as possible. In the description of file was added the link for google docs cloud service with my Summaries for this found Bugs and  screenshots for each separated Bug. 
